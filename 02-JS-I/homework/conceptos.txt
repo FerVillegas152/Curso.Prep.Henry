@@ -1,0 +1,7 @@
+Variables: Son datos que se guardan para ser usados luego en el código.
+Strings: Cualquier texto que siempre vaya encerrado entre comillas simples o dobles.
+Funciones: Son ordenes que se le pueden dar a las variables para cambiarlas, calcularlas, o lo que se necesite hacer con ellas.
+ - Argumentos: Son los valores que le damos a la funcion.
+ - Return: Es lo que necesitamos que la función nos devuelva como respuesta.
+Declaraciones: Es la instrucción. Finaliza con ";".
+Valores booleanos: Son dos "True" o "False". Provienen de la lógica de Boole. Se usan para justamente decir si algo es verdadero o falso.
